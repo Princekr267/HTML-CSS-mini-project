@@ -42,7 +42,7 @@ This mini-project demonstrates how interactive UI elements like hamburger menus,
 
 ### ▶️ Full Screen
 
-![Screen with sidebar](<img width="1919" height="910" alt="Screenshot 2025-11-17 201312" src="https://github.com/user-attachments/assets/7184c4d5-0278-4ab5-8a12-503aaa33bcf3" />)
+![Screen with sidebar](https://github.com/Princekr267/HTML-CSS-mini-project/blob/main/Screenshot%202025-11-17%20201312.png?raw=true)
 
 
 ---
