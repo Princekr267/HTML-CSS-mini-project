@@ -40,6 +40,10 @@ This mini-project demonstrates how interactive UI elements like hamburger menus,
 
 ![Hover Menu](https://github.com/user-attachments/assets/adf7e044-dc26-4881-8da1-7160bc5053bb)
 
+### ▶️ Full Screen
+
+![Screen with sidebar](<Screenshot 2025-11-17 201312.png>)
+
 ---
 
 ## 📁 Folder Structure
